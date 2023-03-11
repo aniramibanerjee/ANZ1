@@ -1,6 +1,6 @@
 # HomeLoanCalculator
-<b>Part 1 (FrontEnd Testing Scenario) - Coding Challenge</b><br />
-<h6>Part 2 (API Testing Scenario): https://github.com/AzySir/OpenWeather/ </h6>
+<b>Part 1 (FrontEnd Testing Scenario) - Coding Challenge https://github.com/aniramibanerjee/ANZ1</b><br />
+<h6>Part 2 (API Testing Scenario):  </h6>
 
 <hr />
 <h2>Overview</h2>
